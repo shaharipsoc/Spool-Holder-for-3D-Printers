@@ -1,10 +1,12 @@
 # Spool-Holder-for-3D-Printers
 
+If you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help, JLCPCB is one of the best company from shenzhen china they provide 3D printing, PCB manufacturing and PCBA services to people in need, they provide good quality products in 3d printing with the materials include
+SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes JLCPCB better companion among other manufactures try out JLCPCB 3D Printing servies
 
-f you have hard-time 3d printing stuff and other materials which i have provided in this project please refer the professionals for the help
+JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
 
-# JLCPCB 3D Printing starts at $1 &Get $54 Coupons for new users
-# https://jlcpcb.com/3d-printing?from=shagiverse
+https://jlcpcb.com/3d-printing?from=shagivers
+
 The Filler is a unique spool holder that stands out for its ease of mounting. It features bearings for smooth unspooling and a host of premade attachments to accommodate a wide range of printers. There are even standalone and wall-mounted options for maximal flexibility.
 
 In some cases, filament may roll off the spool when nearing its end. However, placing the spool above the printer can solve this problem.
